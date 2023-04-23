@@ -2,16 +2,5 @@
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
     "config:base"
-  ],
-  "schedule": [
-    "on friday"
-  ],
-  "timezone": "Europe/Madrid",
-  "labels": [
-    "dependency-update"
-  ],
-  "prHourlyLimit": 0,
-  "baseBranches": [
-    "develop"
   ]
 }
