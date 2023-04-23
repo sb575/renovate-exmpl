@@ -4,7 +4,7 @@
     "config:base"
   ],
   "schedule": [
-    "everyday"
+    "on wednesday"
   ],
   "timezone": "Europe/Madrid"
 }
