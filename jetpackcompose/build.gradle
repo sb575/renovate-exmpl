@@ -78,7 +78,7 @@ dependencies {
     implementation platform('com.google.firebase:firebase-bom:30.3.1')
     implementation 'com.google.firebase:firebase-appcheck-playintegrity'
     implementation 'com.google.firebase:firebase-appcheck-debug:16.1.1'
-    implementation 'com.google.firebase:firebase-messaging:23.1.1'
+    implementation 'com.google.firebase:firebase-messaging:23.4.1'
     implementation 'com.google.android.gms:play-services-ads:21.5.0'
     implementation "com.google.android.gms:play-services-ads-identifier:18.0.1"
 
