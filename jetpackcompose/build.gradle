@@ -53,7 +53,7 @@ dependencies {
     implementation 'com.google.android.material:material:1.8.0'
     implementation 'androidx.lifecycle:lifecycle-runtime-ktx:2.5.1'
 
-    implementation 'androidx.activity:activity-compose:1.6.1'
+    implementation 'androidx.activity:activity-compose:1.9.3'
     implementation 'androidx.preference:preference-ktx:1.2.0'
     implementation ("androidx.constraintlayout:constraintlayout-compose:1.0.1")
     implementation "org.jetbrains.kotlin:kotlin-reflect:1.7.21"
